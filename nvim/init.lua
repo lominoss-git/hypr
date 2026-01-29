@@ -1,0 +1,6 @@
+require("config.globals")
+require("config.options")
+require("config.mappings")
+require("config.lsp")
+require("config.diagnostic")
+require("config.colorscheme")
